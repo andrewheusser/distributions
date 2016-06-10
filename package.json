@@ -1,0 +1,21 @@
+{
+  "name": "distributions",
+  "version": "0.0.1",
+  "description": "a javascript web app for learning about probability distributions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "IRT"
+  ],
+  "author": "Andy Heusser",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-chartjs": "0.0.5",
+    "chart.js": "^1.1.1",
+    "express": "^4.13.4"
+  }
+}
